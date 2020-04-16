@@ -7,3 +7,4 @@ ssh更改过后
 使用idea    第一次更改项目
 使用sts生成的key来重新测试项目
 测试成功，重新测试pull
+test in Xinjiang
